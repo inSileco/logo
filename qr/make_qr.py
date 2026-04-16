@@ -3,8 +3,8 @@
 # python3 make_qr.py
 import qrcode
 
-DATA = "https://insileco.io/fr/rdm-webinar/dmp_form/"
-OUT  = "rdm_webinar_dmp_form_fr.svg"
+DATA = "https://insileco.io/en/forms/resource-access/"
+OUT  = "resource_access_form.svg"
 
 BG = "#37abc8"   # sticker/background
 FG = "#37abc8"   # QR code color (reference uses blue modules on white)
